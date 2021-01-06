@@ -1,0 +1,3 @@
+C:\Users\yusuf\Downloads\Assignment2 (1)\Assignment2\bin\Debug\Assignment2_Code.exe.config
+C:\Users\yusuf\Downloads\Assignment2 (1)\Assignment2\obj\Debug\Assignment2_Code.exe
+C:\Users\yusuf\Downloads\Assignment2 (1)\Assignment2\obj\Debug\Assignment2_Code.pdb

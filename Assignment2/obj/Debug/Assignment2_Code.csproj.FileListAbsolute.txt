@@ -1,0 +1,7 @@
+C:\Users\nizrp\OneDrive - Trent University\COIS 2020\Assignments\Assignment2\Assignment2_Code\Assignment2_Code\bin\Debug\Assignment2_Code.exe.config
+C:\Users\nizrp\OneDrive - Trent University\COIS 2020\Assignments\Assignment2\Assignment2_Code\Assignment2_Code\bin\Debug\Assignment2_Code.exe
+C:\Users\nizrp\OneDrive - Trent University\COIS 2020\Assignments\Assignment2\Assignment2_Code\Assignment2_Code\bin\Debug\Assignment2_Code.pdb
+C:\Users\nizrp\OneDrive - Trent University\COIS 2020\Assignments\Assignment2\Assignment2_Code\Assignment2_Code\obj\Debug\Assignment2_Code.csprojAssemblyReference.cache
+C:\Users\nizrp\OneDrive - Trent University\COIS 2020\Assignments\Assignment2\Assignment2_Code\Assignment2_Code\obj\Debug\Assignment2_Code.csproj.CoreCompileInputs.cache
+C:\Users\nizrp\OneDrive - Trent University\COIS 2020\Assignments\Assignment2\Assignment2_Code\Assignment2_Code\obj\Debug\Assignment2_Code.exe
+C:\Users\nizrp\OneDrive - Trent University\COIS 2020\Assignments\Assignment2\Assignment2_Code\Assignment2_Code\obj\Debug\Assignment2_Code.pdb
