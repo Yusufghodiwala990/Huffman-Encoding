@@ -9,7 +9,7 @@
 
 /*----------------------------------------------------------------------*/
 
-//Assignment 2 by Yusuf Ghodiwala (0683640) and Nizar Khalili (0687408)
+//Assignment 2 by Yusuf Ghodiwala and Nizar Khalili 
 
 
 
